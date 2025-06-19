@@ -14,7 +14,7 @@ LuckeePass is a secure, user-friendly password manager by **Luckeesoft** designe
 ---
 
 ## 📦 Download
-- **[Download LuckeePass.exe](link-to-your-exe-or-zip)**
+- **[Download LuckeePass.exe](https://github.com/LuckeeSoft/LuckeePass/releases/download/v1.0.0/LuckeePass.exe)**
 - If you see a Windows warning, click "More info" → "Run anyway" (see below for details).
 
 ---
