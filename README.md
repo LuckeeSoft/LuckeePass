@@ -38,7 +38,7 @@ This is normal for new apps. LuckeePass does not contain any malware.
 ---
 
 ## 🐞 Reporting Issues
-If you find a bug or have a feature request, please open an issue on the [GitHub Issues page](link-to-issues).
+If you find a bug or have a feature request, please open an issue on the [GitHub Issues page](issues).
 
 ---
 
