@@ -43,7 +43,7 @@ If you find a bug or have a feature request, please open an issue on the [GitHub
 ---
 
 ## 📚 License
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the [MIT License](https://github.com/LuckeeSoft/LuckeePass/blob/main/LICENSE).
 
 ---
 
