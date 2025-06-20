@@ -48,3 +48,5 @@ This project is licensed under the [MIT License](https://github.com/LuckeeSoft/L
 ---
 
 **Thank you for trying LuckeePass by Luckeesoft!** 
+
+<a href="https://app.daily.dev/luckeesoft"><img src="https://api.daily.dev/devcards/v2/eLhuUnHDYIqUdX882IbJe.png?r=xhn&type=default" width="356" alt="LuckeeSoft's Dev Card"/></a>
