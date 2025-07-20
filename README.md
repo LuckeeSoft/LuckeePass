@@ -1,3 +1,6 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/LuckeeSoft/LuckeePass?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/LuckeeSoft/LuckeePass/total?style=for-the-badge)
+
 ## 🚀 About LuckeePass
 LuckeePass is a secure, user-friendly password manager by **Luckeesoft** designed to help you store and manage your passwords, notes, and sensitive information safely.
 
